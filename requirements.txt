@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scipy
+opencv-python
+pims
+scikit-image
+circle-fit
+jupyter
+jupyterlab
