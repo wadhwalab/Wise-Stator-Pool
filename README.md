@@ -37,7 +37,7 @@ The Python scripts and notebooks use NumPy, pandas, matplotlib, SciPy, OpenCV, p
 
 ## Raw Data
 
-Raw data can be accessed on Zenodo. 
+Raw data can be accessed on Zenodo at https://zenodo.org/records/23707101. 
 
 ## Citation
 
